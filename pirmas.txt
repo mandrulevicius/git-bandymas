@@ -1,2 +1,2 @@
 pries git
-o dabar jau po git
+o dabar jau ir po github
